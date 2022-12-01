@@ -5,4 +5,3 @@ R. Nie, C. Ma, J. Cao, et al., "A Total Variation with Joint Norms for Infrared 
 
 [IEEEXplore](https://ieeexplore.ieee.org/document/9376921/)
 
-
